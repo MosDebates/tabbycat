@@ -41,7 +41,7 @@ Tabbycat can be deployed in a number of ways. While you can set it up to [run on
 
 Tabbycat is also configured for a '1 click' install to the [Heroku](https://www.heroku.com) web platform. Click this button to begin:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TabbycatDebate/tabbycat/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MosDebates/tabbycat)
 
 While the baseline Heroku hosting is free, some features require additional setup and larger tournaments will likely need to pay for greater hosting capacities.
 
